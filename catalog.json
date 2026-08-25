@@ -7,6 +7,12 @@
       "file": "fitness/character_runner.png"
     },
     {
+      "id": "runner",
+      "name": "3D Runner",
+      "emoji": "🏃",
+      "file": "fitness/Running.png"
+    },
+    {
       "id": "fit_char_gym",
       "name": "3D Gym Champ",
       "emoji": "🏋️",
