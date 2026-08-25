@@ -1,6 +1,18 @@
 {
   "fitness": [
     {
+      "id": "fit_char_runner",
+      "name": "3D Runner Athlete",
+      "emoji": "🏃",
+      "file": "fitness/character_runner.png"
+    },
+    {
+      "id": "fit_char_gym",
+      "name": "3D Gym Champ",
+      "emoji": "🏋️",
+      "file": "fitness/character_gym.png"
+    },
+    {
       "id": "fit_dumbbell",
       "name": "Dumbbell",
       "emoji": "🏋️",
@@ -77,6 +89,12 @@
   ],
   "mindfulness": [
     {
+      "id": "mind_char_zen",
+      "name": "3D Zen Master",
+      "emoji": "🧘",
+      "file": "mindfulness/character_zen.png"
+    },
+    {
       "id": "mind_meditation",
       "name": "Meditation",
       "emoji": "🧘",
@@ -152,6 +170,12 @@
     }
   ],
   "learning": [
+    {
+      "id": "learn_char_scholar",
+      "name": "3D Smart Scholar",
+      "emoji": "📚",
+      "file": "learning/character_scholar.png"
+    },
     {
       "id": "learn_books",
       "name": "Reading",
