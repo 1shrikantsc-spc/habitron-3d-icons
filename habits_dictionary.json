@@ -1,0 +1,575 @@
+{
+  "version": "1.0.0",
+  "name": "HabitApex Dynamic 3D Habit Dictionary",
+  "description": "70 curated habit templates across all 7 categories (10 per category) with real-time keyword search and 3D icon mappings",
+  "last_updated": "2026-11-17",
+  "total_habits": 70,
+  "habits": [
+    {
+      "name": "Morning 5km Run",
+      "category": "Fitness",
+      "iconId": "runner",
+      "iconPngName": "fitness_runner_3d.png",
+      "emoji": "🏃",
+      "keywords": ["run", "running", "jog", "jogging", "5km", "marathon", "treadmill", "sprint"]
+    },
+    {
+      "name": "Gym Strength Training",
+      "category": "Fitness",
+      "iconId": "fit_char_gym",
+      "iconPngName": "gym_weights_3d.png",
+      "emoji": "🏋️",
+      "keywords": ["gym", "workout", "weights", "lifting", "dumbbell", "bench", "hypertrophy", "muscle"]
+    },
+    {
+      "name": "50 Daily Pushups",
+      "category": "Fitness",
+      "iconId": "pushup",
+      "iconPngName": "pushup_hero_3d.png",
+      "emoji": "💪",
+      "keywords": ["pushup", "pushups", "pressup", "calisthenics", "chest", "arms", "upper body"]
+    },
+    {
+      "name": "100 Pull-ups Challenge",
+      "category": "Fitness",
+      "iconId": "fit_char_gym",
+      "iconPngName": "pullup_bar_3d.png",
+      "emoji": "🧗",
+      "keywords": ["pullup", "pullups", "chinup", "chinups", "lat", "back workout", "bar"]
+    },
+    {
+      "name": "Morning 5km Walk",
+      "category": "Fitness",
+      "iconId": "runner",
+      "iconPngName": "walking_shoes_3d.png",
+      "emoji": "🚶",
+      "keywords": ["walk", "walking", "walk 5km", "morning walk", "brisk walk", "stroll", "steps"]
+    },
+    {
+      "name": "10,000 Daily Steps",
+      "category": "Fitness",
+      "iconId": "fit_char_runner",
+      "iconPngName": "pedometer_steps_3d.png",
+      "emoji": "👟",
+      "keywords": ["steps", "10000 steps", "walking", "walk", "stride", "pedometer", "active"]
+    },
+    {
+      "name": "HIIT Cardio Blast",
+      "category": "Fitness",
+      "iconId": "fit_char_runner",
+      "iconPngName": "hiit_flame_3d.png",
+      "emoji": "🔥",
+      "keywords": ["hiit", "interval", "tabata", "burpees", "cardio", "circuit", "sweat", "fat loss"]
+    },
+    {
+      "name": "Jump Rope 1,000 Skips",
+      "category": "Fitness",
+      "iconId": "runner",
+      "iconPngName": "jump_rope_3d.png",
+      "emoji": "⚡",
+      "keywords": ["rope", "skipping", "jump rope", "skips", "cardio session", "jump"]
+    },
+    {
+      "name": "Outdoor Cycling & Bike Ride",
+      "category": "Fitness",
+      "iconId": "fit_char_runner",
+      "iconPngName": "bicycle_cyclist_3d.png",
+      "emoji": "🚴",
+      "keywords": ["cycle", "cycling", "bike", "biking", "pedal", "spin", "spin class"]
+    },
+    {
+      "name": "Swimming Laps 30 Minutes",
+      "category": "Fitness",
+      "iconId": "fit_char_runner",
+      "iconPngName": "swimming_pool_3d.png",
+      "emoji": "🏊",
+      "keywords": ["swim", "swimming", "laps", "freestyle", "pool", "water workout"]
+    },
+
+    {
+      "name": "Drink 3L Pure Water",
+      "category": "Health",
+      "iconId": "water_drop",
+      "iconPngName": "water_glass_3d.png",
+      "emoji": "💧",
+      "keywords": ["water", "hydrate", "hydration", "drink", "3l", "2l", "gallon", "aqua", "fluid"]
+    },
+    {
+      "name": "Walk with Diabetic / Acupressure Slippers",
+      "category": "Health",
+      "iconId": "winter_shield",
+      "iconPngName": "acupressure_slippers_3d.png",
+      "emoji": "🦶",
+      "keywords": ["walk", "walking", "slippers", "diabetic", "diabetes", "acupressure", "orthopedic", "foot health"]
+    },
+    {
+      "name": "8 Hours Deep Sleep",
+      "category": "Health",
+      "iconId": "prod_5am",
+      "iconPngName": "deep_sleep_moon_3d.png",
+      "emoji": "😴",
+      "keywords": ["sleep", "bed", "rest", "slumber", "nap", "circadian", "bedtime", "early to bed", "insomnia"]
+    },
+    {
+      "name": "Cold Shower Reset",
+      "category": "Health",
+      "iconId": "winter_shield",
+      "iconPngName": "cold_shower_ice_3d.png",
+      "emoji": "❄️",
+      "keywords": ["cold", "shower", "ice", "ice bath", "wim hof", "cryo", "freeze", "cold plunge"]
+    },
+    {
+      "name": "Intermittent Fasting 16:8",
+      "category": "Health",
+      "iconId": "winter_shield",
+      "iconPngName": "fasting_clock_3d.png",
+      "emoji": "⏳",
+      "keywords": ["fast", "fasting", "intermittent", "16/8", "omad", "autophagy", "cleanse", "eating window"]
+    },
+    {
+      "name": "Zero Sugar & Clean Diet",
+      "category": "Health",
+      "iconId": "winter_shield",
+      "iconPngName": "clean_salad_diet_3d.png",
+      "emoji": "🥗",
+      "keywords": ["sugar", "diet", "junk", "sweets", "candy", "soda", "keto", "clean eating", "healthy food"]
+    },
+    {
+      "name": "Morning Sunlight 15 Minutes",
+      "category": "Health",
+      "iconId": "zen_sun",
+      "iconPngName": "morning_sunlight_3d.png",
+      "emoji": "☀️",
+      "keywords": ["sun", "sunlight", "vitamin d", "morning sun", "light", "outdoor", "circadian rhythm"]
+    },
+    {
+      "name": "Take Daily Vitamins & Minerals",
+      "category": "Health",
+      "iconId": "water_drop",
+      "iconPngName": "vitamins_capsule_3d.png",
+      "emoji": "💊",
+      "keywords": ["vitamin", "vitamins", "supplement", "supplements", "zinc", "magnesium", "omega", "medicine", "pill"]
+    },
+    {
+      "name": "Posture Correction & Spine Stretch",
+      "category": "Health",
+      "iconId": "winter_shield",
+      "iconPngName": "posture_spine_3d.png",
+      "emoji": "🧍",
+      "keywords": ["posture", "spine", "back pain", "ergonomic", "stand", "straight", "neck", "alignment"]
+    },
+    {
+      "name": "Zero Alcohol & Liver Detox",
+      "category": "Health",
+      "iconId": "winter_shield",
+      "iconPngName": "zero_alcohol_detox_3d.png",
+      "emoji": "🚫",
+      "keywords": ["alcohol", "beer", "wine", "drink", "sober", "sobriety", "clean liver", "mocktail"]
+    },
+
+    {
+      "name": "Read 20 Pages of Non-Fiction",
+      "category": "Learning",
+      "iconId": "atomic_habits",
+      "iconPngName": "reading_book_3d.png",
+      "emoji": "📖",
+      "keywords": ["read", "reading", "book", "books", "pages", "chapter", "kindle", "novel", "literature"]
+    },
+    {
+      "name": "Code & Build Software 1 Hour",
+      "category": "Learning",
+      "iconId": "learn_char_scholar",
+      "iconPngName": "coding_laptop_3d.png",
+      "emoji": "💻",
+      "keywords": ["code", "coding", "program", "developer", "flutter", "dart", "python", "javascript", "github", "bug"]
+    },
+    {
+      "name": "Solve 1 LeetCode / DSA Problem",
+      "category": "Learning",
+      "iconId": "learn_char_scholar",
+      "iconPngName": "algorithm_brain_3d.png",
+      "emoji": "🧠",
+      "keywords": ["leetcode", "dsa", "algorithm", "data structures", "hackerank", "problem solving", "binary tree"]
+    },
+    {
+      "name": "Duolingo Language Practice",
+      "category": "Learning",
+      "iconId": "learn_char_scholar",
+      "iconPngName": "language_duo_3d.png",
+      "emoji": "🗣️",
+      "keywords": ["duolingo", "language", "vocab", "vocabulary", "spanish", "german", "french", "japanese", "speak"]
+    },
+    {
+      "name": "Listen to Huberman Podcast / Audio",
+      "category": "Learning",
+      "iconId": "atomic_habits",
+      "iconPngName": "podcast_headphones_3d.png",
+      "emoji": "🎧",
+      "keywords": ["podcast", "audiobook", "huberman", "tim ferriss", "listen", "lecture", "audio", "spotify"]
+    },
+    {
+      "name": "Write 500 Words Tech Blog",
+      "category": "Learning",
+      "iconId": "atomic_habits",
+      "iconPngName": "journal_pen_3d.png",
+      "emoji": "✍️",
+      "keywords": ["write", "writing", "blog", "essay", "words", "author", "substack", "medium", "draft"]
+    },
+    {
+      "name": "Study for Competitive Exam / Certification",
+      "category": "Learning",
+      "iconId": "learn_char_scholar",
+      "iconPngName": "study_exam_notes_3d.png",
+      "emoji": "📚",
+      "keywords": ["study", "studying", "exam", "upsc", "gate", "gre", "sat", "syllabus", "revision", "notes"]
+    },
+    {
+      "name": "Learn Artificial Intelligence & Prompting",
+      "category": "Learning",
+      "iconId": "learn_char_scholar",
+      "iconPngName": "ai_chip_spark_3d.png",
+      "emoji": "🤖",
+      "keywords": ["ai", "artificial intelligence", "prompt", "llm", "chatgpt", "gemini", "machine learning"]
+    },
+    {
+      "name": "Practice Musical Instrument 20 Mins",
+      "category": "Learning",
+      "iconId": "learn_char_scholar",
+      "iconPngName": "guitar_music_3d.png",
+      "emoji": "🎸",
+      "keywords": ["guitar", "piano", "violin", "music", "chords", "scales", "instrument", "play music"]
+    },
+    {
+      "name": "Watch TED Talk or University Lecture",
+      "category": "Learning",
+      "iconId": "atomic_habits",
+      "iconPngName": "lecture_video_3d.png",
+      "emoji": "🎓",
+      "keywords": ["lecture", "ted", "ted talk", "video", "seminar", "course", "coursera", "udemy"]
+    },
+
+    {
+      "name": "15 Minutes Zen Meditation",
+      "category": "Mindfulness",
+      "iconId": "mind_char_zen",
+      "iconPngName": "meditation_lotus_3d.png",
+      "emoji": "🧘",
+      "keywords": ["meditate", "meditation", "zen", "mindfulness", "inner peace", "vipassana", "stillness", "calm"]
+    },
+    {
+      "name": "Box Breathing (4-4-4-4 Pranayama)",
+      "category": "Mindfulness",
+      "iconId": "zen_sun",
+      "iconPngName": "pranayama_lungs_3d.png",
+      "emoji": "🫁",
+      "keywords": ["breathe", "breathing", "pranayama", "box breathing", "4-7-8", "lungs", "breathwork", "wim hof breath"]
+    },
+    {
+      "name": "Gratitude Journaling (3 Blessings)",
+      "category": "Mindfulness",
+      "iconId": "mind_char_zen",
+      "iconPngName": "gratitude_heart_3d.png",
+      "emoji": "📝",
+      "keywords": ["journal", "journaling", "gratitude", "grateful", "diary", "reflection", "thankful", "blessings"]
+    },
+    {
+      "name": "Stoic Morning Reflection",
+      "category": "Mindfulness",
+      "iconId": "mind_char_zen",
+      "iconPngName": "stoic_pillar_3d.png",
+      "emoji": "🏛️",
+      "keywords": ["stoic", "stoicism", "marcus aurelius", "seneca", "epictetus", "philosophy", "wisdom", "contemplation"]
+    },
+    {
+      "name": "Evening Mental Brain Dump",
+      "category": "Mindfulness",
+      "iconId": "mind_char_zen",
+      "iconPngName": "brain_dump_cloud_3d.png",
+      "emoji": "🧠",
+      "keywords": ["brain dump", "decompress", "unwind", "night reflection", "mental clarity", "let go", "overthinking"]
+    },
+    {
+      "name": "1 Hour Digital Detox Before Bed",
+      "category": "Mindfulness",
+      "iconId": "zen_sun",
+      "iconPngName": "digital_detox_phone_3d.png",
+      "emoji": "📵",
+      "keywords": ["detox", "no phone", "offline", "airplane mode", "screen detox", "disconnect", "silence"]
+    },
+    {
+      "name": "Mindful Walking in Nature & Grounding",
+      "category": "Mindfulness",
+      "iconId": "mind_char_zen",
+      "iconPngName": "nature_forest_tree_3d.png",
+      "emoji": "🌲",
+      "keywords": ["nature", "forest", "park", "greenery", "grounding", "earthing", "mindful stroll", "barefoot"]
+    },
+    {
+      "name": "Prayer & Spiritual Connection",
+      "category": "Mindfulness",
+      "iconId": "mind_char_zen",
+      "iconPngName": "prayer_hands_3d.png",
+      "emoji": "🙏",
+      "keywords": ["pray", "prayer", "spiritual", "worship", "devotion", "puja", "temple", "church", "mosque", "faith"]
+    },
+    {
+      "name": "Sound Bath & Binaural Beats",
+      "category": "Mindfulness",
+      "iconId": "zen_sun",
+      "iconPngName": "sound_bath_singing_bowl_3d.png",
+      "emoji": "🎶",
+      "keywords": ["sound", "binaural", "frequency", "sound bath", "singing bowl", "hz", "alpha waves", "theta"]
+    },
+    {
+      "name": "Mindful Eating (No Screens While Meals)",
+      "category": "Mindfulness",
+      "iconId": "zen_sun",
+      "iconPngName": "mindful_bowl_3d.png",
+      "emoji": "🥣",
+      "keywords": ["eat", "eating", "mindful eating", "chew", "slow eating", "no phone meal"]
+    },
+
+    {
+      "name": "Plan Tomorrow Night Before",
+      "category": "Productivity",
+      "iconId": "prod_badge",
+      "iconPngName": "daily_planner_3d.png",
+      "emoji": "📋",
+      "keywords": ["plan", "planning", "todo", "schedule", "priorities", "agenda", "calendar", "organize"]
+    },
+    {
+      "name": "Deep Work (90 Min Focus Sprint)",
+      "category": "Productivity",
+      "iconId": "prod_hard75",
+      "iconPngName": "deep_work_focus_3d.png",
+      "emoji": "🎯",
+      "keywords": ["focus", "deep work", "pomodoro", "flow state", "distraction free", "sprint", "hyperfocus"]
+    },
+    {
+      "name": "The 5 AM Club Wakeup",
+      "category": "Productivity",
+      "iconId": "prod_5am",
+      "iconPngName": "alarm_clock_5am_3d.png",
+      "emoji": "⏰",
+      "keywords": ["5am", "wake up early", "early riser", "morning routine", "dawn", "sunrise", "early bird"]
+    },
+    {
+      "name": "Eat The Frog (Hardest Task First)",
+      "category": "Productivity",
+      "iconId": "prod_hard75",
+      "iconPngName": "eat_frog_target_3d.png",
+      "emoji": "🐸",
+      "keywords": ["eat the frog", "hard task", "no procrastination", "tackle", "execute", "priority 1"]
+    },
+    {
+      "name": "Inbox Zero / Clean Email",
+      "category": "Productivity",
+      "iconId": "prod_badge",
+      "iconPngName": "inbox_zero_envelope_3d.png",
+      "emoji": "📬",
+      "keywords": ["inbox", "email", "mail", "inbox zero", "messages", "clean mailbox"]
+    },
+    {
+      "name": "Declutter & Clean Work Desk",
+      "category": "Productivity",
+      "iconId": "prod_badge",
+      "iconPngName": "clean_desk_workspace_3d.png",
+      "emoji": "🗄️",
+      "keywords": ["desk", "clean desk", "workspace", "organize desk", "declutter", "tidy room"]
+    },
+    {
+      "name": "Pomodoro Technique (4 Cycles)",
+      "category": "Productivity",
+      "iconId": "prod_badge",
+      "iconPngName": "pomodoro_tomato_3d.png",
+      "emoji": "🍅",
+      "keywords": ["pomodoro", "timer", "25min", "focus interval", "study block", "work cycle"]
+    },
+    {
+      "name": "Weekly Review & OKR Check",
+      "category": "Productivity",
+      "iconId": "prod_badge",
+      "iconPngName": "weekly_review_chart_3d.png",
+      "emoji": "📊",
+      "keywords": ["review", "weekly review", "kpi", "okr", "goals", "tracking", "progress", "audit"]
+    },
+    {
+      "name": "Screen Time Under 3 Hours",
+      "category": "Productivity",
+      "iconId": "prod_hard75",
+      "iconPngName": "screentime_shield_3d.png",
+      "emoji": "⏳",
+      "keywords": ["screen time", "screen limit", "phone usage", "app limit", "doomscrolling", "focus mode"]
+    },
+    {
+      "name": "Daily Habit & Win Log",
+      "category": "Productivity",
+      "iconId": "prod_badge",
+      "iconPngName": "victory_flag_3d.png",
+      "emoji": "🚩",
+      "keywords": ["win", "daily log", "achievement", "checklist", "reflection", "done list"]
+    },
+
+    {
+      "name": "Track Every Daily Expense",
+      "category": "Finance",
+      "iconId": "fin_wallet",
+      "iconPngName": "expense_receipt_3d.png",
+      "emoji": "💰",
+      "keywords": ["money", "expense", "spend", "spending", "budget", "finance", "receipt", "cash", "ledger"]
+    },
+    {
+      "name": "Zero Impulse Spending Day",
+      "category": "Finance",
+      "iconId": "fin_wealth",
+      "iconPngName": "frugal_shield_3d.png",
+      "emoji": "🛡️",
+      "keywords": ["save", "saving", "no spend", "frugal", "thrift", "impulse", "cut costs", "shopping control"]
+    },
+    {
+      "name": "Daily Savings Deposit / Micro SIP",
+      "category": "Finance",
+      "iconId": "fin_wealth",
+      "iconPngName": "piggy_bank_savings_3d.png",
+      "emoji": "🏦",
+      "keywords": ["deposit", "savings", "piggy bank", "invest", "sip", "compound interest", "wealth", "save money"]
+    },
+    {
+      "name": "Review Stock & Crypto Portfolio",
+      "category": "Finance",
+      "iconId": "fin_wealth",
+      "iconPngName": "bull_market_chart_3d.png",
+      "emoji": "📈",
+      "keywords": ["stocks", "crypto", "investing", "shares", "etf", "mutual funds", "portfolio", "trading", "assets"]
+    },
+    {
+      "name": "Read Financial Times & Market News",
+      "category": "Finance",
+      "iconId": "fin_wallet",
+      "iconPngName": "financial_newspaper_3d.png",
+      "emoji": "📰",
+      "keywords": ["market", "economy", "bloomberg", "financial times", "wall street", "inflation", "macro", "money news"]
+    },
+    {
+      "name": "Review Bank & Credit Card Statements",
+      "category": "Finance",
+      "iconId": "fin_wallet",
+      "iconPngName": "credit_card_vault_3d.png",
+      "emoji": "💳",
+      "keywords": ["credit card", "bank", "statement", "subscriptions", "cancel subscription", "debt", "interest"]
+    },
+    {
+      "name": "Pack Home Cooked Lunch (Save Money)",
+      "category": "Finance",
+      "iconId": "fin_wallet",
+      "iconPngName": "lunch_box_savings_3d.png",
+      "emoji": "🍱",
+      "keywords": ["lunch", "save", "home cooked", "no takeout", "cooking", "eating out", "meal prep"]
+    },
+    {
+      "name": "Learn 1 Personal Finance / Tax Concept",
+      "category": "Finance",
+      "iconId": "fin_wealth",
+      "iconPngName": "tax_calculator_3d.png",
+      "emoji": "💡",
+      "keywords": ["tax", "personal finance", "net worth", "compounding", "asset allocation", "real estate", "roth ira"]
+    },
+    {
+      "name": "Avoid Buy Now Pay Later (BNPL)",
+      "category": "Finance",
+      "iconId": "fin_wealth",
+      "iconPngName": "debt_free_lock_3d.png",
+      "emoji": "🔒",
+      "keywords": ["debt", "bnpl", "emi", "interest", "pay later", "debt free", "financial freedom"]
+    },
+    {
+      "name": "Calculate Monthly Net Worth",
+      "category": "Finance",
+      "iconId": "fin_wealth",
+      "iconPngName": "diamond_networth_3d.png",
+      "emoji": "💎",
+      "keywords": ["net worth", "wealth", "assets", "balance sheet", "freedom number", "financial independence"]
+    },
+
+    {
+      "name": "Make Bed Right After Waking",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "made_bed_pillow_3d.png",
+      "emoji": "🛏️",
+      "keywords": ["bed", "make bed", "morning discipline", "order", "neatness", "sheets"]
+    },
+    {
+      "name": "Call Parents or Close Family",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "call_parents_phone_3d.png",
+      "emoji": "📞",
+      "keywords": ["call", "family", "mom", "dad", "parents", "brother", "sister", "friend", "relationship", "check in"]
+    },
+    {
+      "name": "One Random Act of Kindness",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "kindness_gift_3d.png",
+      "emoji": "💖",
+      "keywords": ["kindness", "help", "charity", "compliment", "good deed", "smile", "generosity"]
+    },
+    {
+      "name": "Floss Teeth & Night Dental Routine",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "floss_sparkle_tooth_3d.png",
+      "emoji": "🦷",
+      "keywords": ["teeth", "brush", "floss", "dental", "oral hygiene", "mouthwash"]
+    },
+    {
+      "name": "Organize Wardrobe & Prepare Outfit",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "wardrobe_hanger_3d.png",
+      "emoji": "👔",
+      "keywords": ["clothes", "outfit", "wardrobe", "prep", "iron clothes", "shoes"]
+    },
+    {
+      "name": "Take Out Trash & Recycles Daily",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "recycling_bin_3d.png",
+      "emoji": "🗑️",
+      "keywords": ["trash", "garbage", "recycle", "clean house", "chores", "bins"]
+    },
+    {
+      "name": "Water Houseplants & Garden",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "water_can_sprout_3d.png",
+      "emoji": "🌱",
+      "keywords": ["plants", "water plants", "garden", "flowers", "green", "herbs"]
+    },
+    {
+      "name": "Spend 30 Mins Quality Time with Family / Pet",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "pet_paw_heart_3d.png",
+      "emoji": "🐾",
+      "keywords": ["pet", "dog", "cat", "family time", "kids", "play", "bonding"]
+    },
+    {
+      "name": "Car / Bike Clean & Tire Pressure Check",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "vehicle_steering_3d.png",
+      "emoji": "🚗",
+      "keywords": ["car", "bike", "vehicle", "wash car", "tire pressure", "clean car"]
+    },
+    {
+      "name": "Daily Reflection & Tomorrow's Goal Setting",
+      "category": "General",
+      "iconId": "gen_badge",
+      "iconPngName": "apex_trophy_3d.png",
+      "emoji": "🏆",
+      "keywords": ["trophy", "apex", "goal", "reflection", "win", "progress", "mastery"]
+    }
+  ]
+}
